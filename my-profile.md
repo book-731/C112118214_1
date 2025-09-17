@@ -12,7 +12,7 @@
 
 ![YouTube](https://th.bing.com/th/id/ODF.MrzzDTMlZsq_k5DWWmv7Hw?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)
 
->弱者等待時機，強者製造時機。
+>少壯不努力，老大吃空氣。
 
  | 學級 | 名稱 | 科系 |
  |---|:---:|:---:|
