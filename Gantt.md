@@ -1,9 +1,7 @@
 ```mermaid
-%%{init: {"theme": "default", "themeVariables": {
-    "fontFamily": "Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif"
-}}}%%
+%%{init: {"themeVariables": {"fontFamily": "Noto Sans TC, Microsoft JhengHei, PingFang TC, sans-serif"}}}%%
 gantt
-    title A Gantt Diagram
+    title 甘特圖
     dateFormat  YYYY-MM-DD
     section 研擬計畫
     1      :2025-10-01, 1d
@@ -19,7 +17,7 @@ gantt
     6      :2025-12-15  , 30d 
     section 撰寫使用手冊
     7      :2025-10-29  , 25d
-    section 任務分配
+    section 轉換檔案
     8      :2025-10-29  , 20d
     section 系統測試
     9      :2026-01-14  , 25d
