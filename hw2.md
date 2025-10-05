@@ -27,4 +27,4 @@ gantt
     11      :2026-02-08  , 25d
 
 ```
-![PERT]()
+![PERT](PERT.png)
